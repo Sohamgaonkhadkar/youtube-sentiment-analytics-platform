@@ -1,0 +1,16 @@
+node_modules/
+venv/
+.env
+__pycache__/
+dist/
+build/
+mlruns/
+
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.pkl
+*.joblib
+
+*.mp4
